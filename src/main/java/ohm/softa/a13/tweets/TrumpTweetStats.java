@@ -1,8 +1,9 @@
-package de.thro.inf.prg3.a13.tweets;
+package ohm.softa.a13.tweets;
 
-import de.thro.inf.prg3.a13.model.Lazy;
-import de.thro.inf.prg3.a13.model.Tweet;
-import de.thro.inf.prg3.a13.tweets.generators.TweetStreamGenerator;
+import ohm.softa.a13.model.Lazy;
+import ohm.softa.a13.model.Tweet;
+
+import ohm.softa.a13.tweets.generators.TweetStreamGenerator;
 import org.apache.commons.lang3.NotImplementedException;
 
 import java.util.*;
@@ -11,7 +12,7 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import static de.thro.inf.prg3.a13.model.Lazy.lazyOf;
+import static ohm.softa.a13.model.Lazy.lazyOf;
 
 /**
  * @author Peter Kurfer

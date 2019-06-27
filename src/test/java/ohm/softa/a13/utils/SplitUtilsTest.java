@@ -1,8 +1,8 @@
-package de.thro.inf.prg3.a13.utils;
+package ohm.softa.a13.utils;
 
-import de.thro.inf.prg3.a13.model.Tweet;
-import de.thro.inf.prg3.a13.tweets.TweetSource;
-import de.thro.inf.prg3.a13.tweets.TweetStreamFactory;
+import ohm.softa.a13.model.Tweet;
+import ohm.softa.a13.tweets.TweetSource;
+import ohm.softa.a13.tweets.TweetStreamFactory;
 import org.junit.jupiter.api.Test;
 
 import java.util.logging.Logger;

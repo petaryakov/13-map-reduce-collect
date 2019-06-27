@@ -1,7 +1,7 @@
-package de.thro.inf.prg3.a13.tweets.generators;
+package ohm.softa.a13.tweets.generators;
 
 import com.google.gson.Gson;
-import de.thro.inf.prg3.a13.model.Tweet;
+import ohm.softa.a13.model.Tweet;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

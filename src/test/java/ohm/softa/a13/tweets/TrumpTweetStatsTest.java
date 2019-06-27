@@ -1,6 +1,8 @@
-package de.thro.inf.prg3.a13.tweets;
+package ohm.softa.a13.tweets;
 
-import de.thro.inf.prg3.a13.model.Tweet;
+import ohm.softa.a13.model.Tweet;
+import ohm.softa.a13.utils.PrintUtils;
+import ohm.softa.a13.utils.ResourceUtils;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
@@ -8,9 +10,9 @@ import java.util.Set;
 import java.util.function.Function;
 import java.util.logging.Logger;
 
-import static de.thro.inf.prg3.a13.utils.PrintUtils.iterableToString;
-import static de.thro.inf.prg3.a13.utils.PrintUtils.mapToString;
-import static de.thro.inf.prg3.a13.utils.ResourceUtils.loadStopWordsFunctional;
+import static ohm.softa.a13.utils.PrintUtils.iterableToString;
+import static ohm.softa.a13.utils.PrintUtils.mapToString;
+import static ohm.softa.a13.utils.ResourceUtils.loadStopWordsFunctional;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 

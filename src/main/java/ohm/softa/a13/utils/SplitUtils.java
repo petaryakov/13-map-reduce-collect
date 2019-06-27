@@ -1,6 +1,6 @@
-package de.thro.inf.prg3.a13.utils;
+package ohm.softa.a13.utils;
 
-import de.thro.inf.prg3.a13.model.Tweet;
+import ohm.softa.a13.model.Tweet;
 
 import java.util.regex.Pattern;
 import java.util.stream.Stream;

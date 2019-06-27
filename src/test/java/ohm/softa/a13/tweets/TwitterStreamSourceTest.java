@@ -1,6 +1,6 @@
-package de.thro.inf.prg3.a13.tweets;
+package ohm.softa.a13.tweets;
 
-import de.thro.inf.prg3.a13.model.Tweet;
+import ohm.softa.a13.model.Tweet;
 import org.junit.jupiter.api.Test;
 
 import java.time.Duration;

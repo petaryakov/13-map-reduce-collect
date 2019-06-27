@@ -1,4 +1,4 @@
-package de.thro.inf.prg3.a13.model;
+package ohm.softa.a13.model;
 
 import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;

@@ -1,11 +1,11 @@
-package de.thro.inf.prg3.a13.utils;
+package ohm.softa.a13.utils;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
-import static de.thro.inf.prg3.a13.utils.FunctionalUtils.tryWithResources;
 import static java.util.stream.Collectors.toSet;
+import static ohm.softa.a13.utils.FunctionalUtils.tryWithResources;
 
 /**
  * Util class to load resources

@@ -1,4 +1,4 @@
-package de.thro.inf.prg3.a13.model;
+package ohm.softa.a13.model;
 
 import java.util.function.Supplier;
 

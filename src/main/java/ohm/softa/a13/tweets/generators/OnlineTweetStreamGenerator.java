@@ -1,6 +1,6 @@
-package de.thro.inf.prg3.a13.tweets.generators;
+package ohm.softa.a13.tweets.generators;
 
-import de.thro.inf.prg3.a13.model.Tweet;
+import ohm.softa.a13.model.Tweet;
 import twitter4j.Paging;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
